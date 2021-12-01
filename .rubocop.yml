@@ -1,0 +1,12 @@
+AllCops:
+  NewCops: enable
+
+Naming/VariableNumber:
+  EnforcedStyle: snake_case
+
+Style/NumberedParametersLimit:
+  Max: 2
+
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
+
